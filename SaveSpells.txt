@@ -1,0 +1,8 @@
+
+Fire:Element:Fireball
+Ice:Element:IceShard
+Water:Element:WaterSurf
+Earth:Element:Earthquake
+Fire:Element:BladeOfFire
+Ice:Element:BladeOfIce
+Earth:Element:EarthBlade
